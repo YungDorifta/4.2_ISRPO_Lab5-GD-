@@ -1,0 +1,15 @@
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\obj\Debug\Lab5WPF.csprojAssemblyReference.cache
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\obj\Debug\MainWindow.g.cs
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\obj\Debug\App.g.cs
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\obj\Debug\Lab5WPF_MarkupCompile.cache
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\obj\Debug\Lab5WPF_MarkupCompile.lref
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\bin\Debug\Lab5WPF.exe.config
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\bin\Debug\Lab5WPF.exe
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\bin\Debug\Lab5WPF.pdb
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\obj\Debug\MainWindow.baml
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\obj\Debug\Lab5WPF.g.resources
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\obj\Debug\Lab5WPF.Properties.Resources.resources
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\obj\Debug\Lab5WPF.csproj.GenerateResource.cache
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\obj\Debug\Lab5WPF.csproj.CoreCompileInputs.cache
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\obj\Debug\Lab5WPF.exe
+H:\ИСРПО\Лабы\2 семестр\!-Лаб5(GD)\Lab5WPF\Lab5WPF\obj\Debug\Lab5WPF.pdb
